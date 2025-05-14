@@ -1,3 +1,4 @@
+
 ### <div align="center">I'm Marc, a Software Developer, AI Engineer and Physicist</div>  
   
 
@@ -13,7 +14,7 @@
 - ⚡ Fun fact: I am actively maintaining a home server with several useful applications and web pages  
   
 
-<br/>  
+<br />
 
 
 ## My Skill Set  
@@ -111,23 +112,17 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=AimbotParce&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimbotParce&hide_border=true&layout=compact" align="right" /></div>
-
-</td></tr></table>  
-
-<br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
+    <img src="https://github-readme-stats.vercel.app/api?username=AimbotParce&show_icons=true&count_private=true&hide_border=true&theme=dark" style="height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimbotParce&layout=compact&theme=dark&hide=html&hide_border=true"  style="height: 200px;"/>
+</div>
+
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AimbotParce&&style=flat-square" align="center" />
+</div>
+
