@@ -115,8 +115,8 @@
 
 
 <div align="center" width="100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=AimbotParce&show_icons=true&count_private=true&hide_border=true&theme=dark" style="max-width: 50%" align="top"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimbotParce&layout=compact&theme=dark&hide=html&hide_border=true"  style="max-width: 50%" align="top"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AimbotParce&show_icons=true&count_private=true&hide_border=true&theme=dark" style="max-width: 50%" align="middle"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimbotParce&layout=compact&theme=dark&hide=html&hide_border=true"  style="max-width: 50%" align="middle"/>
 </div>
 
 
