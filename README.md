@@ -114,9 +114,9 @@
 ## Github Stats  
 
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AimbotParce&show_icons=true&count_private=true&hide_border=true&theme=dark" style="height: 200px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimbotParce&layout=compact&theme=dark&hide=html&hide_border=true"  style="height: 200px;"/>
+<div align="center" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=AimbotParce&show_icons=true&count_private=true&hide_border=true&theme=dark" style="max-width: 50%" align="top"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimbotParce&layout=compact&theme=dark&hide=html&hide_border=true"  style="max-width: 50%" align="top"/>
 </div>
 
 
