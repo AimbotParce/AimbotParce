@@ -93,7 +93,9 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="img/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.proxmox.com/" target="_blank"><img style="margin: 10px" src="img/proxmox.png" alt="Proxmox" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="img/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="img/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="img/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
+<a href="https://developer.hashicorp.com/terraform" target="_blank"><img style="margin: 10px" src="img/terraform-icon.svg" alt="Terraform" height="50" /></a>
+<a href="https://helm.sh/" target="_blank"><img style="margin: 10px" src="img/helm-icon.svg" alt="Helm" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="img/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="img/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="img/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
