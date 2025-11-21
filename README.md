@@ -82,6 +82,7 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="img/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="img/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="img/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.min.io/" target="_blank"><img style="margin: 10px" src="img/minio-icon.svg" alt="MinIO" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
