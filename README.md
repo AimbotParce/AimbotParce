@@ -104,6 +104,8 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="img/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://www.elastic.co/kibana/" target="_blank"><img style="margin: 10px" src="img/kibana.png" alt="Kibana" height="50" /></a>  
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="img/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
+<a href="https://prometheus.io/" target="_blank"><img style="margin: 10px" src="img/Prometheus.svg" alt="Elastic Search" height="50" /></a>  
+<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="img/Grafana.svg" alt="Elastic Search" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="img/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="img/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="img/gitlab.svg" alt="GitLab" height="50" /></a>  
